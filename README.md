@@ -66,7 +66,7 @@ migrationLayer.destroy();
 ## data format
 
 ```js
-data = [{"from":[-118.2705,33.9984],"to":[-122.789336,37.920458],"labels":["Los Angeles","San Francisco"],"color":"#ff3a31","value":15}];
+data = [{"from":[121.4770677,24.9997426],"to":[121.562244,25.0375465],"labels":["TPC","NTPC"],"color":"#51d5f4","value":15}];
 ```
 
 If the value is not undefined, the width of arc will depend on the value.
